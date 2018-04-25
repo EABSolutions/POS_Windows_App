@@ -1,0 +1,621 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{BBE7064C-FD66-4A7D-B930-9681BDCBDA5A}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>EAB_Business_Solution</RootNamespace>
+    <AssemblyName>EAB Business Solution</AssemblyName>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <TargetFrameworkProfile />
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <Prefer32Bit>false</Prefer32Bit>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <Prefer32Bit>false</Prefer32Bit>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationIcon>EAB.ico</ApplicationIcon>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Microsoft.mshtml, Version=7.0.3300.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
+      <SpecificVersion>False</SpecificVersion>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+      <HintPath>C:\Program Files (x86)\Microsoft.NET\Primary Interop Assemblies\Microsoft.mshtml.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.ReportViewer.WinForms, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL" />
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Web.Services" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Class\clsBrand.cs" />
+    <Compile Include="Class\clsCompany.cs" />
+    <Compile Include="Class\clsCoreProductFamily.cs" />
+    <Compile Include="Class\clsCustomer.cs" />
+    <Compile Include="Class\clsCustomerType.cs" />
+    <Compile Include="Class\clsDepartment.cs" />
+    <Compile Include="Class\clsInventory.cs" />
+    <Compile Include="Class\clsMain.cs" />
+    <Compile Include="Class\clsManufacturer.cs" />
+    <Compile Include="Class\clsMaritalStatus.cs" />
+    <Compile Include="Class\clsMethods.cs" />
+    <Compile Include="Class\clsOrderLists.cs" />
+    <Compile Include="Class\clsPO.cs" />
+    <Compile Include="Class\clsPOS.cs" />
+    <Compile Include="Class\clsProduct.cs" />
+    <Compile Include="Class\clsProductClass.cs" />
+    <Compile Include="Class\clsProductFamily.cs" />
+    <Compile Include="Class\clsProductLine.cs" />
+    <Compile Include="Class\clsReport.cs" />
+    <Compile Include="Class\clsReportSO.cs" />
+    <Compile Include="Class\clsSalesOrder.cs" />
+    <Compile Include="Class\clsSalesPlan.cs" />
+    <Compile Include="Class\clsSqlDataModules.cs" />
+    <Compile Include="Class\clsSupplier.cs" />
+    <Compile Include="Class\clsTable.cs" />
+    <Compile Include="Class\clsUOM.cs" />
+    <Compile Include="Class\clsUserLevel.cs" />
+    <Compile Include="Class\clsWarehouse.cs" />
+    <Compile Include="Forms\frmBrand.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\frmBrand.designer.cs">
+      <DependentUpon>frmBrand.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\frmCar.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\frmCar.designer.cs">
+      <DependentUpon>frmCar.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\frmCompany.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\frmCompany.Designer.cs">
+      <DependentUpon>frmCompany.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\frmConversionFactor.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\frmConversionFactor.Designer.cs">
+      <DependentUpon>frmConversionFactor.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\frmCurrency.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\frmCurrency.designer.cs">
+      <DependentUpon>frmCurrency.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\frmCustomer.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\frmCustomer.designer.cs">
+      <DependentUpon>frmCustomer.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\frmCustomerMembership.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\frmCustomerMembership.designer.cs">
+      <DependentUpon>frmCustomerMembership.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\frmCustomerType.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\frmCustomerType.designer.cs">
+      <DependentUpon>frmCustomerType.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\frmDatabaseConnection.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\frmDatabaseConnection.Designer.cs">
+      <DependentUpon>frmDatabaseConnection.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\frmDelivery.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\frmDelivery.Designer.cs">
+      <DependentUpon>frmDelivery.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\frmDepartment.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\frmDepartment.Designer.cs">
+      <DependentUpon>frmDepartment.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\frmInventory.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\frmInventory.Designer.cs">
+      <DependentUpon>frmInventory.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\frmInventoryTransfer.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\frmInventoryTransfer.Designer.cs">
+      <DependentUpon>frmInventoryTransfer.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\frmInventoryTransferReceive.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\frmInventoryTransferReceive.Designer.cs">
+      <DependentUpon>frmInventoryTransferReceive.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\frmInvoice.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\frmInvoice.Designer.cs">
+      <DependentUpon>frmInvoice.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\frmLicense.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\frmLicense.designer.cs">
+      <DependentUpon>frmLicense.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\frmMain.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\frmMain.Designer.cs">
+      <DependentUpon>frmMain.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\frmManufacturer.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\frmManufacturer.designer.cs">
+      <DependentUpon>frmManufacturer.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\frmMembership.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\frmMembership.designer.cs">
+      <DependentUpon>frmMembership.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\frmOrderList.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\frmOrderList.designer.cs">
+      <DependentUpon>frmOrderList.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\frmPO.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\frmPO.Designer.cs">
+      <DependentUpon>frmPO.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\frmPOReceive.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\frmPOReceive.Designer.cs">
+      <DependentUpon>frmPOReceive.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\frmPOS.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\frmPOS.designer.cs">
+      <DependentUpon>frmPOS.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\frmPosition.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\frmPosition.designer.cs">
+      <DependentUpon>frmPosition.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\frmProductHirachy.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\frmProductHirachy.designer.cs">
+      <DependentUpon>frmProductHirachy.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\frmPromotion.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\frmPromotion.Designer.cs">
+      <DependentUpon>frmPromotion.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\frmSalesOrder.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\frmSalesOrder.Designer.cs">
+      <DependentUpon>frmSalesOrder.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\frmSalesPlan.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\frmSalesPlan.Designer.cs">
+      <DependentUpon>frmSalesPlan.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\frmServiceCharges.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\frmServiceCharges.designer.cs">
+      <DependentUpon>frmServiceCharges.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\frmStockRequest.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\frmStockRequest.Designer.cs">
+      <DependentUpon>frmStockRequest.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\frmsupplier.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\frmsupplier.designer.cs">
+      <DependentUpon>frmsupplier.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\FrmTable.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\FrmTable.designer.cs">
+      <DependentUpon>FrmTable.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\frmTax.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\frmTax.designer.cs">
+      <DependentUpon>frmTax.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\frmUL_User.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\frmUL_User.designer.cs">
+      <DependentUpon>frmUL_User.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\frmUOM.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\frmUOM.designer.cs">
+      <DependentUpon>frmUOM.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\frmUserEmployee.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\frmUserEmployee.designer.cs">
+      <DependentUpon>frmUserEmployee.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\frmUserLevel.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\frmUserLevel.designer.cs">
+      <DependentUpon>frmUserLevel.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\frmUserLicense.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\frmUserLicense.Designer.cs">
+      <DependentUpon>frmUserLicense.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\frmWarehouse.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\frmWarehouse.designer.cs">
+      <DependentUpon>frmWarehouse.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\frmWH_Employee.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\frmWH_Employee.designer.cs">
+      <DependentUpon>frmWH_Employee.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Report Class\clsProductSalesQuantityReport.cs" />
+    <Compile Include="Report Class\clsSalesReport.cs" />
+    <Compile Include="Report Class\clsStockReport.cs" />
+    <Compile Include="Report Forms\frmProductSalesQuantityReport.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Report Forms\frmProductSalesQuantityReport.Designer.cs">
+      <DependentUpon>frmProductSalesQuantityReport.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Report Forms\frmSalesReport.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Report Forms\frmSalesReport.Designer.cs">
+      <DependentUpon>frmSalesReport.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Report Forms\frmStockReport.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Report Forms\frmStockReport.Designer.cs">
+      <DependentUpon>frmStockReport.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="Forms\frmBrand.resx">
+      <DependentUpon>frmBrand.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\frmCar.resx">
+      <DependentUpon>frmCar.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\frmCompany.resx">
+      <DependentUpon>frmCompany.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\frmConversionFactor.resx">
+      <DependentUpon>frmConversionFactor.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\frmCurrency.resx">
+      <DependentUpon>frmCurrency.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\frmCustomer.resx">
+      <DependentUpon>frmCustomer.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\frmCustomerMembership.resx">
+      <DependentUpon>frmCustomerMembership.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\frmCustomerType.resx">
+      <DependentUpon>frmCustomerType.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\frmDatabaseConnection.resx">
+      <DependentUpon>frmDatabaseConnection.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\frmDelivery.resx">
+      <DependentUpon>frmDelivery.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\frmDepartment.resx">
+      <DependentUpon>frmDepartment.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\frmInventory.resx">
+      <DependentUpon>frmInventory.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\frmInventoryTransfer.resx">
+      <DependentUpon>frmInventoryTransfer.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\frmInventoryTransferReceive.resx">
+      <DependentUpon>frmInventoryTransferReceive.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\frmInvoice.resx">
+      <DependentUpon>frmInvoice.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\frmLicense.resx">
+      <DependentUpon>frmLicense.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\frmMain.resx">
+      <DependentUpon>frmMain.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\frmManufacturer.resx">
+      <DependentUpon>frmManufacturer.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\frmMembership.resx">
+      <DependentUpon>frmMembership.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\frmOrderList.resx">
+      <DependentUpon>frmOrderList.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\frmPO.resx">
+      <DependentUpon>frmPO.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\frmPOReceive.resx">
+      <DependentUpon>frmPOReceive.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\frmPOS.resx">
+      <DependentUpon>frmPOS.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\frmPosition.resx">
+      <DependentUpon>frmPosition.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\frmProductHirachy.resx">
+      <DependentUpon>frmProductHirachy.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\frmPromotion.resx">
+      <DependentUpon>frmPromotion.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\frmSalesOrder.resx">
+      <DependentUpon>frmSalesOrder.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\frmSalesPlan.resx">
+      <DependentUpon>frmSalesPlan.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\frmServiceCharges.resx">
+      <DependentUpon>frmServiceCharges.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\frmStockRequest.resx">
+      <DependentUpon>frmStockRequest.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\frmsupplier.resx">
+      <DependentUpon>frmsupplier.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\FrmTable.resx">
+      <DependentUpon>FrmTable.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\frmTax.resx">
+      <DependentUpon>frmTax.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\frmUL_User.resx">
+      <DependentUpon>frmUL_User.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\frmUOM.resx">
+      <DependentUpon>frmUOM.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\frmUserEmployee.resx">
+      <DependentUpon>frmUserEmployee.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\frmUserLevel.resx">
+      <DependentUpon>frmUserLevel.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\frmUserLicense.resx">
+      <DependentUpon>frmUserLicense.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\frmWarehouse.resx">
+      <DependentUpon>frmWarehouse.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\frmWH_Employee.resx">
+      <DependentUpon>frmWH_Employee.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <EmbeddedResource Include="Report Forms\frmProductSalesQuantityReport.resx">
+      <DependentUpon>frmProductSalesQuantityReport.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Report Forms\frmSalesReport.resx">
+      <DependentUpon>frmSalesReport.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Report Forms\frmStockReport.resx">
+      <DependentUpon>frmStockReport.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Report\POSReport.rdlc" />
+    <EmbeddedResource Include="Report\SOReport.rdlc" />
+    <None Include="app.config" />
+    <None Include="ClassDiagram1.cd" />
+    <None Include="Properties\DataSources\EAB_Business_Solution.Class.clsCompany.datasource">
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="Properties\DataSources\EAB_Business_Solution.Class.clsCustomer.datasource" />
+    <None Include="Properties\DataSources\EAB_Business_Solution.Class.clsDepartment.datasource" />
+    <None Include="Properties\DataSources\EAB_Business_Solution.Class.clsInventory.datasource" />
+    <None Include="Properties\DataSources\EAB_Business_Solution.Class.clsMain.datasource" />
+    <None Include="Properties\DataSources\EAB_Business_Solution.Class.clsMethods.datasource" />
+    <None Include="Properties\DataSources\EAB_Business_Solution.Class.clsOrderLists.datasource" />
+    <None Include="Properties\DataSources\EAB_Business_Solution.Class.clsPO.datasource" />
+    <None Include="Properties\DataSources\EAB_Business_Solution.Class.clsPOS.datasource" />
+    <None Include="Properties\DataSources\EAB_Business_Solution.Class.clsProduct.datasource" />
+    <None Include="Properties\DataSources\EAB_Business_Solution.Class.clsProductLine.datasource" />
+    <None Include="Properties\DataSources\EAB_Business_Solution.Class.clsReport.datasource" />
+    <None Include="Properties\DataSources\EAB_Business_Solution.Class.clsReportSO.datasource" />
+    <None Include="Properties\DataSources\EAB_Business_Solution.Class.clsSalesOrder.datasource" />
+    <None Include="Properties\DataSources\EAB_Business_Solution.Class.clsSOReport.datasource" />
+    <None Include="Properties\DataSources\EAB_Business_Solution.Class.clsSqlDataModules.datasource" />
+    <None Include="Properties\DataSources\EAB_Business_Solution.Class.clsSupplier.datasource" />
+    <None Include="Properties\DataSources\EAB_Business_Solution.Class.clsTable.datasource">
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="Properties\DataSources\EAB_Business_Solution.Class.clsWarehouse.datasource" />
+    <None Include="Properties\DataSources\EAB_Business_Solution.Forms.frmBrand.datasource" />
+    <None Include="Properties\DataSources\EAB_Business_Solution.Forms.frmCar.datasource" />
+    <None Include="Properties\DataSources\EAB_Business_Solution.Forms.frmConversionFactor.datasource" />
+    <None Include="Properties\DataSources\EAB_Business_Solution.Forms.FrmCoreProductFamily.datasource" />
+    <None Include="Properties\DataSources\EAB_Business_Solution.Forms.frmCurrency.datasource" />
+    <None Include="Properties\DataSources\EAB_Business_Solution.Forms.frmCustomer.datasource" />
+    <None Include="Properties\DataSources\EAB_Business_Solution.Forms.frmCustomerMembership.datasource" />
+    <None Include="Properties\DataSources\EAB_Business_Solution.Forms.frmCustomerType.datasource" />
+    <None Include="Properties\DataSources\EAB_Business_Solution.Forms.frmDatabaseConnection.datasource" />
+    <None Include="Properties\DataSources\EAB_Business_Solution.Forms.frmDelivery.datasource" />
+    <None Include="Properties\DataSources\EAB_Business_Solution.Forms.frmInventory.datasource" />
+    <None Include="Properties\DataSources\EAB_Business_Solution.Forms.frmInventoryTransfer.datasource" />
+    <None Include="Properties\DataSources\EAB_Business_Solution.Forms.frmInventoryTransferReceive.datasource" />
+    <None Include="Properties\DataSources\EAB_Business_Solution.Forms.frmInvoice.datasource" />
+    <None Include="Properties\DataSources\EAB_Business_Solution.Forms.frmLicense.datasource" />
+    <None Include="Properties\DataSources\EAB_Business_Solution.Forms.frmMain.datasource" />
+    <None Include="Properties\DataSources\EAB_Business_Solution.Forms.frmManufacturer.datasource" />
+    <None Include="Properties\DataSources\EAB_Business_Solution.Forms.frmMembership.datasource" />
+    <None Include="Properties\DataSources\EAB_Business_Solution.Forms.frmOrderList.datasource" />
+    <None Include="Properties\DataSources\EAB_Business_Solution.Forms.frmPO.datasource" />
+    <None Include="Properties\DataSources\EAB_Business_Solution.Forms.frmPOReceive.datasource" />
+    <None Include="Properties\DataSources\EAB_Business_Solution.Forms.frmPOS+FormMode.datasource" />
+    <None Include="Properties\DataSources\EAB_Business_Solution.Forms.frmPOS.datasource" />
+    <None Include="Properties\DataSources\EAB_Business_Solution.Forms.frmPosition.datasource" />
+    <None Include="Properties\DataSources\EAB_Business_Solution.Forms.frmProduct.datasource" />
+    <None Include="Properties\DataSources\EAB_Business_Solution.Forms.frmProductBrand.datasource" />
+    <None Include="Properties\DataSources\EAB_Business_Solution.Forms.frmProductClass.datasource" />
+    <None Include="Properties\DataSources\EAB_Business_Solution.Forms.frmProductFamily.datasource" />
+    <None Include="Properties\DataSources\EAB_Business_Solution.Forms.FrmProductLine.datasource" />
+    <None Include="Properties\DataSources\EAB_Business_Solution.Forms.frmPromotion.datasource" />
+    <None Include="Properties\DataSources\EAB_Business_Solution.Forms.frmSalesOrder.datasource" />
+    <None Include="Properties\DataSources\EAB_Business_Solution.Forms.frmSalesPlan.datasource" />
+    <None Include="Properties\DataSources\EAB_Business_Solution.Forms.frmServiceCharges.datasource" />
+    <None Include="Properties\DataSources\EAB_Business_Solution.Forms.frmStockRequest.datasource" />
+    <None Include="Properties\DataSources\EAB_Business_Solution.Forms.frmsupplier.datasource" />
+    <None Include="Properties\DataSources\EAB_Business_Solution.Forms.frmTax.datasource" />
+    <None Include="Properties\DataSources\EAB_Business_Solution.Forms.frmUL_User.datasource" />
+    <None Include="Properties\DataSources\EAB_Business_Solution.Forms.frmUOM.datasource" />
+    <None Include="Properties\DataSources\EAB_Business_Solution.Forms.frmUserEmployee.datasource" />
+    <None Include="Properties\DataSources\EAB_Business_Solution.Forms.frmUserLevel.datasource" />
+    <None Include="Properties\DataSources\EAB_Business_Solution.Forms.frmUserLicense.datasource">
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="Properties\DataSources\EAB_Business_Solution.Forms.frmWarehouse.datasource" />
+    <None Include="Properties\DataSources\EAB_Business_Solution.Forms.frmWH_Employee.datasource" />
+    <None Include="Properties\DataSources\EAB_Business_Solution.Properties.Resources.datasource" />
+    <None Include="Properties\DataSources\EAB_Business_Solution.Properties.Settings.datasource" />
+    <None Include="Properties\DataSources\frmCompany.datasource">
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="Properties\DataSources\frmDepartment.datasource" />
+    <None Include="Properties\DataSources\Program.datasource" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="EAB.ico" />
+    <Content Include="Pictures\EAB.ico" />
+    <Content Include="Pictures\eab_1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <COMReference Include="Microsoft.Office.Core">
+      <Guid>{2DF8D04C-5BFA-101B-BDE5-00AA0044DE52}</Guid>
+      <VersionMajor>2</VersionMajor>
+      <VersionMinor>7</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>primary</WrapperTool>
+      <Isolated>False</Isolated>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </COMReference>
+    <COMReference Include="Microsoft.Office.Interop.Excel">
+      <Guid>{00020813-0000-0000-C000-000000000046}</Guid>
+      <VersionMajor>1</VersionMajor>
+      <VersionMinor>8</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>primary</WrapperTool>
+      <Isolated>False</Isolated>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </COMReference>
+    <COMReference Include="VBIDE">
+      <Guid>{0002E157-0000-0000-C000-000000000046}</Guid>
+      <VersionMajor>5</VersionMajor>
+      <VersionMinor>3</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>primary</WrapperTool>
+      <Isolated>False</Isolated>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </COMReference>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

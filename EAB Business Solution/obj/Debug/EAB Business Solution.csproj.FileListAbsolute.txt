@@ -1,0 +1,222 @@
+D:\Mg Marnn\Work\EAB\EAB Business Solutions\Program\EAB Business Solution\EAB Business Solution\bin\Debug\EAB Business Solution.exe
+D:\Mg Marnn\Work\EAB\EAB Business Solutions\Program\EAB Business Solution\EAB Business Solution\bin\Debug\EAB Business Solution.pdb
+D:\Mg Marnn\Work\EAB\EAB Business Solutions\Program\EAB Business Solution\EAB Business Solution\obj\Debug\EAB Business Solution.csprojResolveAssemblyReference.cache
+D:\Mg Marnn\Work\EAB\EAB Business Solutions\Program\EAB Business Solution\EAB Business Solution\obj\Debug\EAB_Business_Solution.frmCompany.resources
+D:\Mg Marnn\Work\EAB\EAB Business Solutions\Program\EAB Business Solution\EAB Business Solution\obj\Debug\EAB_Business_Solution.Properties.Resources.resources
+D:\Mg Marnn\Work\EAB\EAB Business Solutions\Program\EAB Business Solution\EAB Business Solution\obj\Debug\EAB Business Solution.csproj.GenerateResource.Cache
+D:\Mg Marnn\Work\EAB\EAB Business Solutions\Program\EAB Business Solution\EAB Business Solution\obj\Debug\EAB Business Solution.exe
+D:\Mg Marnn\Work\EAB\EAB Business Solutions\Program\EAB Business Solution\EAB Business Solution\obj\Debug\EAB Business Solution.pdb
+D:\IT\Programs\EABSS\Program\EAB Business Solution\EAB Business Solution\obj\Debug\EAB Business Solution.exe
+D:\IT\Programs\EABSS\Program\EAB Business Solution\EAB Business Solution\obj\Debug\EAB Business Solution.pdb
+D:\Mg Marnn\Work\EAB\EAB Business Solutions\Program\EAB Business Solution\EAB Business Solution\obj\Debug\EAB_Business_Solution.frmDepartment.resources
+D:\Mg Marnn\Work\EAB\EAB Business Solutions\Program\EAB Business Solution\EAB Business Solution\obj\Debug\EAB_Business_Solution.Forms.frmMain.resources
+D:\Mg Marnn\Work\EAB\EAB Business Solutions\Program\EAB Business Solution\EAB Business Solution\obj\Debug\EAB_Business_Solution.Forms.frmPO.resources
+D:\Mg Marnn\Work\EAB\EAB Business Solutions\Program\EAB Business Solution\EAB Business Solution\obj\Debug\EAB_Business_Solution.Forms.frmInvoice.resources
+D:\Mg Marnn\Work\EAB\EAB Business Solutions\Program\EAB Business Solution\EAB Business Solution\obj\Debug\EAB_Business_Solution.Forms.frmSalesOrder.resources
+D:\Mg Marnn\Work\EAB\EAB Business Solutions\Program\EAB Business Solution\EAB Business Solution\obj\Debug\EAB_Business_Solution.Forms.frmDelivery.resources
+D:\Mg Marnn\Work\EAB\EAB Business Solutions\Program\EAB Business Solution\EAB Business Solution\obj\Debug\EAB_Business_Solution.Forms.frmSalesPlan.resources
+D:\Mg Marnn\Work\EAB\EAB Business Solutions\Program\EAB Business Solution\EAB Business Solution\obj\Debug\EAB_Business_Solution.Forms.frmInventory.resources
+D:\Mg Marnn\Work\EAB\EAB Business Solutions\Program\EAB Business Solution\EAB Business Solution\obj\Debug\EAB_Business_Solution.Forms.frmPromotion.resources
+D:\Mg Marnn\Work\EAB\EAB Business Solutions\Program\EAB Business Solution\EAB Business Solution\obj\Debug\EAB_Business_Solution.Forms.frmStockRequest.resources
+D:\Mg Marnn\Work\EAB\EAB Business Solutions\Program\EAB Business Solution\EAB Business Solution\obj\Debug\EAB_Business_Solution.Forms.frmInventoryTransfer.resources
+D:\Mg Marnn\Work\EAB\EAB Business Solutions\Program\EAB Business Solution\EAB Business Solution\obj\Debug\EAB_Business_Solution.Forms.frmInventoryTransferReceive.resources
+D:\Mg Marnn\Work\EAB\EAB Business Solutions\Program\EAB Business Solution\EAB Business Solution\obj\Debug\EAB_Business_Solution.Forms.frmConversionFactor.resources
+D:\Mg Marnn\Work\EAB\EAB Business Solutions\Program\EAB Business Solution\EAB Business Solution\obj\Debug\EAB_Business_Solution.Forms.frmBrand.resources
+D:\Mg Marnn\Work\EAB\EAB Business Solutions\Program\EAB Business Solution\EAB Business Solution\obj\Debug\EAB_Business_Solution.Forms.frmCar.resources
+D:\Mg Marnn\Work\EAB\EAB Business Solutions\Program\EAB Business Solution\EAB Business Solution\obj\Debug\EAB_Business_Solution.Forms.FrmCoreProductFamily.resources
+D:\Mg Marnn\Work\EAB\EAB Business Solutions\Program\EAB Business Solution\EAB Business Solution\obj\Debug\EAB_Business_Solution.Forms.frmCurrency.resources
+D:\Mg Marnn\Work\EAB\EAB Business Solutions\Program\EAB Business Solution\EAB Business Solution\obj\Debug\EAB_Business_Solution.Forms.frmCustomer.resources
+D:\Mg Marnn\Work\EAB\EAB Business Solutions\Program\EAB Business Solution\EAB Business Solution\obj\Debug\EAB_Business_Solution.Forms.frmCustomerMembership.resources
+D:\Mg Marnn\Work\EAB\EAB Business Solutions\Program\EAB Business Solution\EAB Business Solution\obj\Debug\EAB_Business_Solution.Forms.frmCustomerType.resources
+D:\Mg Marnn\Work\EAB\EAB Business Solutions\Program\EAB Business Solution\EAB Business Solution\obj\Debug\EAB_Business_Solution.Forms.frmLicense.resources
+D:\Mg Marnn\Work\EAB\EAB Business Solutions\Program\EAB Business Solution\EAB Business Solution\obj\Debug\EAB_Business_Solution.Forms.frmManufacturer.resources
+D:\Mg Marnn\Work\EAB\EAB Business Solutions\Program\EAB Business Solution\EAB Business Solution\obj\Debug\EAB_Business_Solution.Forms.frmMembership.resources
+D:\Mg Marnn\Work\EAB\EAB Business Solutions\Program\EAB Business Solution\EAB Business Solution\obj\Debug\EAB_Business_Solution.Forms.frmPosition.resources
+D:\Mg Marnn\Work\EAB\EAB Business Solutions\Program\EAB Business Solution\EAB Business Solution\obj\Debug\EAB_Business_Solution.Forms.frmProduct.resources
+D:\Mg Marnn\Work\EAB\EAB Business Solutions\Program\EAB Business Solution\EAB Business Solution\obj\Debug\EAB_Business_Solution.Forms.frmProductBrand.resources
+D:\Mg Marnn\Work\EAB\EAB Business Solutions\Program\EAB Business Solution\EAB Business Solution\obj\Debug\EAB_Business_Solution.Forms.frmProductClass.resources
+D:\Mg Marnn\Work\EAB\EAB Business Solutions\Program\EAB Business Solution\EAB Business Solution\obj\Debug\EAB_Business_Solution.Forms.frmProductFamily.resources
+D:\Mg Marnn\Work\EAB\EAB Business Solutions\Program\EAB Business Solution\EAB Business Solution\obj\Debug\EAB_Business_Solution.Forms.FrmProductLine.resources
+D:\Mg Marnn\Work\EAB\EAB Business Solutions\Program\EAB Business Solution\EAB Business Solution\obj\Debug\EAB_Business_Solution.Forms.frmServiceCharges.resources
+D:\Mg Marnn\Work\EAB\EAB Business Solutions\Program\EAB Business Solution\EAB Business Solution\obj\Debug\EAB_Business_Solution.Forms.frmsupplier.resources
+D:\Mg Marnn\Work\EAB\EAB Business Solutions\Program\EAB Business Solution\EAB Business Solution\obj\Debug\EAB_Business_Solution.Forms.frmTax.resources
+D:\Mg Marnn\Work\EAB\EAB Business Solutions\Program\EAB Business Solution\EAB Business Solution\obj\Debug\EAB_Business_Solution.Forms.frmUL_User.resources
+D:\Mg Marnn\Work\EAB\EAB Business Solutions\Program\EAB Business Solution\EAB Business Solution\obj\Debug\EAB_Business_Solution.Forms.frmUOM.resources
+D:\Mg Marnn\Work\EAB\EAB Business Solutions\Program\EAB Business Solution\EAB Business Solution\obj\Debug\EAB_Business_Solution.Forms.frmUserEmployee.resources
+D:\Mg Marnn\Work\EAB\EAB Business Solutions\Program\EAB Business Solution\EAB Business Solution\obj\Debug\EAB_Business_Solution.Forms.frmUserLevel.resources
+D:\Mg Marnn\Work\EAB\EAB Business Solutions\Program\EAB Business Solution\EAB Business Solution\obj\Debug\EAB_Business_Solution.Forms.frmWarehouse.resources
+D:\Mg Marnn\Work\EAB\EAB Business Solutions\Program\EAB Business Solution\EAB Business Solution\obj\Debug\EAB_Business_Solution.Forms.frmWH_Employee.resources
+D:\Mg Marnn\Work\EAB\EAB Business Solutions\Program\EAB Business Solution\EAB Business Solution\obj\Debug\EAB_Business_Solution.Forms.frmUserLicense.resources
+D:\Mg Marnn\Work\EAB\EAB Business Solutions\Program\EAB Business Solution\EAB Business Solution\obj\Debug\EAB_Business_Solution.Forms.frmDatabaseConnection.resources
+D:\Mg Marnn\Work\EAB\EAB Business Solutions\Program\EAB Business Solution\EAB Business Solution\obj\Debug\EAB_Business_Solution.Forms.frmOrderList.resources
+D:\Mg Marnn\Work\EAB\EAB Business Solutions\Program\EAB Business Solution\EAB Business Solution\obj\Debug\EAB_Business_Solution.Forms.frmPOReceive.resources
+D:\Mg Marnn\Work\EAB\EAB Business Solutions\Program\EAB Business Solution\EAB Business Solution\obj\Debug\EAB_Business_Solution.Forms.frmPOS.resources
+D:\Mg Marnn\Work\EAB\EAB Business Solutions\Program\EAB Business Solution\EAB Business Solution\obj\Debug\RdlCompile.cache
+D:\Mg Marnn\Work\EAB\EAB Business Solutions\Program\EAB Business Solution\EAB Business Solution\obj\Debug\RdlCompile.compiled
+D:\Mg Marnn\Work\EAB\EAB Business Solutions\Program\EAB Business Solution\EAB Business Solution\obj\Debug\EAB_Business_Solution.Forms.FrmTable.resources
+D:\Mg Marnn\Work\EAB\EAB Business Solutions\Program\EAB Business Solution\EAB Business Solution\obj\Debug\Interop.Microsoft.Office.Interop.MSProject.dll
+D:\Mg Marnn\Work\EAB\EAB Business Solutions\Program\EAB Business Solution\EAB Business Solution\obj\Debug\EAB Business Solution.csproj.ResolveComReference.cache
+D:\Mg Marnn\Work\EAB\EAB Business Solutions\Program\EAB Business Solution\EAB Business Solution\obj\Debug\EAB_Business_Solution.Report_Forms.frmSalesReport.resources
+D:\Mg Marnn\Work\EAB\EAB Business Solutions\Program\EAB Business Solution\EAB Business Solution\obj\Debug\EAB_Business_Solution.Report_Forms.frmProductSalesQuantityReport.resources
+D:\Mg Marnn\Work\EAB\EAB Business Solutions\Program\EAB Business Solution\EAB Business Solution\obj\Debug\EAB_Business_Solution.Report_Forms.frmStockReport.resources
+D:\Marnn Toe Oo\Own\EAB Business Solution\EAB Business Solution\obj\Debug\EAB Business Solution.csproj.ResolveComReference.cache
+D:\Marnn Toe Oo\Own\EAB Business Solution\EAB Business Solution\obj\Debug\EAB Business Solution.exe
+D:\Marnn Toe Oo\Own\EAB Business Solution\EAB Business Solution\obj\Debug\EAB Business Solution.pdb
+D:\Marnn Toe Oo\Own\EAB Business Solution\EAB Business Solution\bin\Debug\EAB Business Solution.exe
+D:\Marnn Toe Oo\Own\EAB Business Solution\EAB Business Solution\bin\Debug\EAB Business Solution.pdb
+D:\Marnn Toe Oo\Own\EAB Business Solution\EAB Business Solution\obj\Debug\EAB Business Solution.csprojResolveAssemblyReference.cache
+D:\Marnn Toe Oo\Own\EAB Business Solution\EAB Business Solution\obj\Debug\EAB_Business_Solution.Forms.frmBrand.resources
+D:\Marnn Toe Oo\Own\EAB Business Solution\EAB Business Solution\obj\Debug\EAB_Business_Solution.Forms.frmCar.resources
+D:\Marnn Toe Oo\Own\EAB Business Solution\EAB Business Solution\obj\Debug\EAB_Business_Solution.frmCompany.resources
+D:\Marnn Toe Oo\Own\EAB Business Solution\EAB Business Solution\obj\Debug\EAB_Business_Solution.Forms.frmConversionFactor.resources
+D:\Marnn Toe Oo\Own\EAB Business Solution\EAB Business Solution\obj\Debug\EAB_Business_Solution.Forms.frmCurrency.resources
+D:\Marnn Toe Oo\Own\EAB Business Solution\EAB Business Solution\obj\Debug\EAB_Business_Solution.Forms.frmCustomer.resources
+D:\Marnn Toe Oo\Own\EAB Business Solution\EAB Business Solution\obj\Debug\EAB_Business_Solution.Forms.frmCustomerMembership.resources
+D:\Marnn Toe Oo\Own\EAB Business Solution\EAB Business Solution\obj\Debug\EAB_Business_Solution.Forms.frmCustomerType.resources
+D:\Marnn Toe Oo\Own\EAB Business Solution\EAB Business Solution\obj\Debug\EAB_Business_Solution.Forms.frmDatabaseConnection.resources
+D:\Marnn Toe Oo\Own\EAB Business Solution\EAB Business Solution\obj\Debug\EAB_Business_Solution.Forms.frmDelivery.resources
+D:\Marnn Toe Oo\Own\EAB Business Solution\EAB Business Solution\obj\Debug\EAB_Business_Solution.frmDepartment.resources
+D:\Marnn Toe Oo\Own\EAB Business Solution\EAB Business Solution\obj\Debug\EAB_Business_Solution.Forms.frmInventory.resources
+D:\Marnn Toe Oo\Own\EAB Business Solution\EAB Business Solution\obj\Debug\EAB_Business_Solution.Forms.frmInventoryTransfer.resources
+D:\Marnn Toe Oo\Own\EAB Business Solution\EAB Business Solution\obj\Debug\EAB_Business_Solution.Forms.frmInventoryTransferReceive.resources
+D:\Marnn Toe Oo\Own\EAB Business Solution\EAB Business Solution\obj\Debug\EAB_Business_Solution.Forms.frmInvoice.resources
+D:\Marnn Toe Oo\Own\EAB Business Solution\EAB Business Solution\obj\Debug\EAB_Business_Solution.Forms.frmLicense.resources
+D:\Marnn Toe Oo\Own\EAB Business Solution\EAB Business Solution\obj\Debug\EAB_Business_Solution.Forms.frmMain.resources
+D:\Marnn Toe Oo\Own\EAB Business Solution\EAB Business Solution\obj\Debug\EAB_Business_Solution.Forms.frmManufacturer.resources
+D:\Marnn Toe Oo\Own\EAB Business Solution\EAB Business Solution\obj\Debug\EAB_Business_Solution.Forms.frmMembership.resources
+D:\Marnn Toe Oo\Own\EAB Business Solution\EAB Business Solution\obj\Debug\EAB_Business_Solution.Forms.frmOrderList.resources
+D:\Marnn Toe Oo\Own\EAB Business Solution\EAB Business Solution\obj\Debug\EAB_Business_Solution.Forms.frmPO.resources
+D:\Marnn Toe Oo\Own\EAB Business Solution\EAB Business Solution\obj\Debug\EAB_Business_Solution.Forms.frmPOReceive.resources
+D:\Marnn Toe Oo\Own\EAB Business Solution\EAB Business Solution\obj\Debug\EAB_Business_Solution.Forms.frmPOS.resources
+D:\Marnn Toe Oo\Own\EAB Business Solution\EAB Business Solution\obj\Debug\EAB_Business_Solution.Forms.frmPosition.resources
+D:\Marnn Toe Oo\Own\EAB Business Solution\EAB Business Solution\obj\Debug\EAB_Business_Solution.Forms.frmPromotion.resources
+D:\Marnn Toe Oo\Own\EAB Business Solution\EAB Business Solution\obj\Debug\EAB_Business_Solution.Forms.frmSalesOrder.resources
+D:\Marnn Toe Oo\Own\EAB Business Solution\EAB Business Solution\obj\Debug\EAB_Business_Solution.Forms.frmSalesPlan.resources
+D:\Marnn Toe Oo\Own\EAB Business Solution\EAB Business Solution\obj\Debug\EAB_Business_Solution.Forms.frmServiceCharges.resources
+D:\Marnn Toe Oo\Own\EAB Business Solution\EAB Business Solution\obj\Debug\EAB_Business_Solution.Forms.frmStockRequest.resources
+D:\Marnn Toe Oo\Own\EAB Business Solution\EAB Business Solution\obj\Debug\EAB_Business_Solution.Forms.frmsupplier.resources
+D:\Marnn Toe Oo\Own\EAB Business Solution\EAB Business Solution\obj\Debug\EAB_Business_Solution.Forms.FrmTable.resources
+D:\Marnn Toe Oo\Own\EAB Business Solution\EAB Business Solution\obj\Debug\EAB_Business_Solution.Forms.frmTax.resources
+D:\Marnn Toe Oo\Own\EAB Business Solution\EAB Business Solution\obj\Debug\EAB_Business_Solution.Forms.frmUL_User.resources
+D:\Marnn Toe Oo\Own\EAB Business Solution\EAB Business Solution\obj\Debug\EAB_Business_Solution.Forms.frmUOM.resources
+D:\Marnn Toe Oo\Own\EAB Business Solution\EAB Business Solution\obj\Debug\EAB_Business_Solution.Forms.frmUserEmployee.resources
+D:\Marnn Toe Oo\Own\EAB Business Solution\EAB Business Solution\obj\Debug\EAB_Business_Solution.Forms.frmUserLevel.resources
+D:\Marnn Toe Oo\Own\EAB Business Solution\EAB Business Solution\obj\Debug\EAB_Business_Solution.Forms.frmUserLicense.resources
+D:\Marnn Toe Oo\Own\EAB Business Solution\EAB Business Solution\obj\Debug\EAB_Business_Solution.Forms.frmWarehouse.resources
+D:\Marnn Toe Oo\Own\EAB Business Solution\EAB Business Solution\obj\Debug\EAB_Business_Solution.Forms.frmWH_Employee.resources
+D:\Marnn Toe Oo\Own\EAB Business Solution\EAB Business Solution\obj\Debug\EAB_Business_Solution.Properties.Resources.resources
+D:\Marnn Toe Oo\Own\EAB Business Solution\EAB Business Solution\obj\Debug\EAB_Business_Solution.Report_Forms.frmProductSalesQuantityReport.resources
+D:\Marnn Toe Oo\Own\EAB Business Solution\EAB Business Solution\obj\Debug\EAB_Business_Solution.Report_Forms.frmSalesReport.resources
+D:\Marnn Toe Oo\Own\EAB Business Solution\EAB Business Solution\obj\Debug\EAB_Business_Solution.Report_Forms.frmStockReport.resources
+D:\Marnn Toe Oo\Own\EAB Business Solution\EAB Business Solution\obj\Debug\EAB Business Solution.csproj.GenerateResource.Cache
+D:\Marnn Toe Oo\Own\EAB Business Solution\EAB Business Solution\obj\Debug\RdlCompile.cache
+D:\Marnn Toe Oo\Own\EAB Business Solution\EAB Business Solution\obj\Debug\RdlCompile.compiled
+D:\Marnn Toe Oo\Own\EAB Business Solution\EAB Business Solution\obj\Debug\EAB_Business_Solution.Forms.frmProductHirachy.resources
+C:\Users\Alienware17R2\Downloads\Compressed\EAB Business Solution\EAB Business Solution\obj\Debug\EAB Business Solution.csproj.ResolveComReference.cache
+C:\Users\Alienware17R2\Downloads\Compressed\EAB Business Solution\EAB Business Solution\obj\Debug\EAB Business Solution.exe
+C:\Users\Alienware17R2\Downloads\Compressed\EAB Business Solution\EAB Business Solution\obj\Debug\EAB Business Solution.pdb
+C:\Users\Alienware17R2\Downloads\Compressed\EAB Business Solution\EAB Business Solution\bin\Debug\EAB Business Solution.exe
+C:\Users\Alienware17R2\Downloads\Compressed\EAB Business Solution\EAB Business Solution\bin\Debug\EAB Business Solution.pdb
+C:\Users\Alienware17R2\Downloads\Compressed\EAB Business Solution\EAB Business Solution\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\Alienware17R2\Downloads\Compressed\EAB Business Solution\EAB Business Solution\obj\Debug\EAB Business Solution.csprojResolveAssemblyReference.cache
+C:\Users\Alienware17R2\Downloads\Compressed\EAB Business Solution\EAB Business Solution\obj\Debug\EAB_Business_Solution.Forms.frmBrand.resources
+C:\Users\Alienware17R2\Downloads\Compressed\EAB Business Solution\EAB Business Solution\obj\Debug\EAB_Business_Solution.Forms.frmCar.resources
+C:\Users\Alienware17R2\Downloads\Compressed\EAB Business Solution\EAB Business Solution\obj\Debug\EAB_Business_Solution.frmCompany.resources
+C:\Users\Alienware17R2\Downloads\Compressed\EAB Business Solution\EAB Business Solution\obj\Debug\EAB_Business_Solution.Forms.frmConversionFactor.resources
+C:\Users\Alienware17R2\Downloads\Compressed\EAB Business Solution\EAB Business Solution\obj\Debug\EAB_Business_Solution.Forms.frmCurrency.resources
+C:\Users\Alienware17R2\Downloads\Compressed\EAB Business Solution\EAB Business Solution\obj\Debug\EAB_Business_Solution.Forms.frmCustomer.resources
+C:\Users\Alienware17R2\Downloads\Compressed\EAB Business Solution\EAB Business Solution\obj\Debug\EAB_Business_Solution.Forms.frmCustomerMembership.resources
+C:\Users\Alienware17R2\Downloads\Compressed\EAB Business Solution\EAB Business Solution\obj\Debug\EAB_Business_Solution.Forms.frmCustomerType.resources
+C:\Users\Alienware17R2\Downloads\Compressed\EAB Business Solution\EAB Business Solution\obj\Debug\EAB_Business_Solution.Forms.frmDatabaseConnection.resources
+C:\Users\Alienware17R2\Downloads\Compressed\EAB Business Solution\EAB Business Solution\obj\Debug\EAB_Business_Solution.Forms.frmDelivery.resources
+C:\Users\Alienware17R2\Downloads\Compressed\EAB Business Solution\EAB Business Solution\obj\Debug\EAB_Business_Solution.frmDepartment.resources
+C:\Users\Alienware17R2\Downloads\Compressed\EAB Business Solution\EAB Business Solution\obj\Debug\EAB_Business_Solution.Forms.frmInventory.resources
+C:\Users\Alienware17R2\Downloads\Compressed\EAB Business Solution\EAB Business Solution\obj\Debug\EAB_Business_Solution.Forms.frmInventoryTransfer.resources
+C:\Users\Alienware17R2\Downloads\Compressed\EAB Business Solution\EAB Business Solution\obj\Debug\EAB_Business_Solution.Forms.frmInventoryTransferReceive.resources
+C:\Users\Alienware17R2\Downloads\Compressed\EAB Business Solution\EAB Business Solution\obj\Debug\EAB_Business_Solution.Forms.frmInvoice.resources
+C:\Users\Alienware17R2\Downloads\Compressed\EAB Business Solution\EAB Business Solution\obj\Debug\EAB_Business_Solution.Forms.frmLicense.resources
+C:\Users\Alienware17R2\Downloads\Compressed\EAB Business Solution\EAB Business Solution\obj\Debug\EAB_Business_Solution.Forms.frmMain.resources
+C:\Users\Alienware17R2\Downloads\Compressed\EAB Business Solution\EAB Business Solution\obj\Debug\EAB_Business_Solution.Forms.frmManufacturer.resources
+C:\Users\Alienware17R2\Downloads\Compressed\EAB Business Solution\EAB Business Solution\obj\Debug\EAB_Business_Solution.Forms.frmMembership.resources
+C:\Users\Alienware17R2\Downloads\Compressed\EAB Business Solution\EAB Business Solution\obj\Debug\EAB_Business_Solution.Forms.frmOrderList.resources
+C:\Users\Alienware17R2\Downloads\Compressed\EAB Business Solution\EAB Business Solution\obj\Debug\EAB_Business_Solution.Forms.frmPO.resources
+C:\Users\Alienware17R2\Downloads\Compressed\EAB Business Solution\EAB Business Solution\obj\Debug\EAB_Business_Solution.Forms.frmPOReceive.resources
+C:\Users\Alienware17R2\Downloads\Compressed\EAB Business Solution\EAB Business Solution\obj\Debug\EAB_Business_Solution.Forms.frmPOS.resources
+C:\Users\Alienware17R2\Downloads\Compressed\EAB Business Solution\EAB Business Solution\obj\Debug\EAB_Business_Solution.Forms.frmPosition.resources
+C:\Users\Alienware17R2\Downloads\Compressed\EAB Business Solution\EAB Business Solution\obj\Debug\EAB_Business_Solution.Forms.frmProductHirachy.resources
+C:\Users\Alienware17R2\Downloads\Compressed\EAB Business Solution\EAB Business Solution\obj\Debug\EAB_Business_Solution.Forms.frmPromotion.resources
+C:\Users\Alienware17R2\Downloads\Compressed\EAB Business Solution\EAB Business Solution\obj\Debug\EAB_Business_Solution.Forms.frmSalesOrder.resources
+C:\Users\Alienware17R2\Downloads\Compressed\EAB Business Solution\EAB Business Solution\obj\Debug\EAB_Business_Solution.Forms.frmSalesPlan.resources
+C:\Users\Alienware17R2\Downloads\Compressed\EAB Business Solution\EAB Business Solution\obj\Debug\EAB_Business_Solution.Forms.frmServiceCharges.resources
+C:\Users\Alienware17R2\Downloads\Compressed\EAB Business Solution\EAB Business Solution\obj\Debug\EAB_Business_Solution.Forms.frmStockRequest.resources
+C:\Users\Alienware17R2\Downloads\Compressed\EAB Business Solution\EAB Business Solution\obj\Debug\EAB_Business_Solution.Forms.frmsupplier.resources
+C:\Users\Alienware17R2\Downloads\Compressed\EAB Business Solution\EAB Business Solution\obj\Debug\EAB_Business_Solution.Forms.FrmTable.resources
+C:\Users\Alienware17R2\Downloads\Compressed\EAB Business Solution\EAB Business Solution\obj\Debug\EAB_Business_Solution.Forms.frmTax.resources
+C:\Users\Alienware17R2\Downloads\Compressed\EAB Business Solution\EAB Business Solution\obj\Debug\EAB_Business_Solution.Forms.frmUL_User.resources
+C:\Users\Alienware17R2\Downloads\Compressed\EAB Business Solution\EAB Business Solution\obj\Debug\EAB_Business_Solution.Forms.frmUOM.resources
+C:\Users\Alienware17R2\Downloads\Compressed\EAB Business Solution\EAB Business Solution\obj\Debug\EAB_Business_Solution.Forms.frmUserEmployee.resources
+C:\Users\Alienware17R2\Downloads\Compressed\EAB Business Solution\EAB Business Solution\obj\Debug\EAB_Business_Solution.Forms.frmUserLevel.resources
+C:\Users\Alienware17R2\Downloads\Compressed\EAB Business Solution\EAB Business Solution\obj\Debug\EAB_Business_Solution.Forms.frmUserLicense.resources
+C:\Users\Alienware17R2\Downloads\Compressed\EAB Business Solution\EAB Business Solution\obj\Debug\EAB_Business_Solution.Forms.frmWarehouse.resources
+C:\Users\Alienware17R2\Downloads\Compressed\EAB Business Solution\EAB Business Solution\obj\Debug\EAB_Business_Solution.Forms.frmWH_Employee.resources
+C:\Users\Alienware17R2\Downloads\Compressed\EAB Business Solution\EAB Business Solution\obj\Debug\EAB_Business_Solution.Properties.Resources.resources
+C:\Users\Alienware17R2\Downloads\Compressed\EAB Business Solution\EAB Business Solution\obj\Debug\EAB_Business_Solution.Report_Forms.frmProductSalesQuantityReport.resources
+C:\Users\Alienware17R2\Downloads\Compressed\EAB Business Solution\EAB Business Solution\obj\Debug\EAB_Business_Solution.Report_Forms.frmSalesReport.resources
+C:\Users\Alienware17R2\Downloads\Compressed\EAB Business Solution\EAB Business Solution\obj\Debug\EAB_Business_Solution.Report_Forms.frmStockReport.resources
+C:\Users\Alienware17R2\Downloads\Compressed\EAB Business Solution\EAB Business Solution\obj\Debug\EAB Business Solution.csproj.GenerateResource.Cache
+D:\Work\EAB Business Solution\EAB Business Solution\obj\Debug\EAB Business Solution.csprojResolveAssemblyReference.cache
+D:\Work\EAB Business Solution\EAB Business Solution\obj\Debug\EAB Business Solution.csproj.ResolveComReference.cache
+D:\Work\EAB Business Solution\EAB Business Solution\obj\Debug\EAB_Business_Solution.Forms.frmBrand.resources
+D:\Work\EAB Business Solution\EAB Business Solution\obj\Debug\EAB_Business_Solution.Forms.frmCar.resources
+D:\Work\EAB Business Solution\EAB Business Solution\obj\Debug\EAB_Business_Solution.frmCompany.resources
+D:\Work\EAB Business Solution\EAB Business Solution\obj\Debug\EAB_Business_Solution.Forms.frmConversionFactor.resources
+D:\Work\EAB Business Solution\EAB Business Solution\obj\Debug\EAB_Business_Solution.Forms.frmCurrency.resources
+D:\Work\EAB Business Solution\EAB Business Solution\obj\Debug\EAB_Business_Solution.Forms.frmCustomer.resources
+D:\Work\EAB Business Solution\EAB Business Solution\obj\Debug\EAB_Business_Solution.Forms.frmCustomerMembership.resources
+D:\Work\EAB Business Solution\EAB Business Solution\obj\Debug\EAB_Business_Solution.Forms.frmCustomerType.resources
+D:\Work\EAB Business Solution\EAB Business Solution\obj\Debug\EAB_Business_Solution.Forms.frmDatabaseConnection.resources
+D:\Work\EAB Business Solution\EAB Business Solution\obj\Debug\EAB_Business_Solution.Forms.frmDelivery.resources
+D:\Work\EAB Business Solution\EAB Business Solution\obj\Debug\EAB_Business_Solution.frmDepartment.resources
+D:\Work\EAB Business Solution\EAB Business Solution\obj\Debug\EAB_Business_Solution.Forms.frmInventory.resources
+D:\Work\EAB Business Solution\EAB Business Solution\obj\Debug\EAB_Business_Solution.Forms.frmInventoryTransfer.resources
+D:\Work\EAB Business Solution\EAB Business Solution\obj\Debug\EAB_Business_Solution.Forms.frmInventoryTransferReceive.resources
+D:\Work\EAB Business Solution\EAB Business Solution\obj\Debug\EAB_Business_Solution.Forms.frmInvoice.resources
+D:\Work\EAB Business Solution\EAB Business Solution\obj\Debug\EAB_Business_Solution.Forms.frmLicense.resources
+D:\Work\EAB Business Solution\EAB Business Solution\obj\Debug\EAB_Business_Solution.Forms.frmMain.resources
+D:\Work\EAB Business Solution\EAB Business Solution\obj\Debug\EAB_Business_Solution.Forms.frmManufacturer.resources
+D:\Work\EAB Business Solution\EAB Business Solution\obj\Debug\EAB_Business_Solution.Forms.frmMembership.resources
+D:\Work\EAB Business Solution\EAB Business Solution\obj\Debug\EAB_Business_Solution.Forms.frmOrderList.resources
+D:\Work\EAB Business Solution\EAB Business Solution\obj\Debug\EAB_Business_Solution.Forms.frmPO.resources
+D:\Work\EAB Business Solution\EAB Business Solution\obj\Debug\EAB_Business_Solution.Forms.frmPOReceive.resources
+D:\Work\EAB Business Solution\EAB Business Solution\obj\Debug\EAB_Business_Solution.Forms.frmPOS.resources
+D:\Work\EAB Business Solution\EAB Business Solution\obj\Debug\EAB_Business_Solution.Forms.frmPosition.resources
+D:\Work\EAB Business Solution\EAB Business Solution\obj\Debug\EAB_Business_Solution.Forms.frmProductHirachy.resources
+D:\Work\EAB Business Solution\EAB Business Solution\obj\Debug\EAB_Business_Solution.Forms.frmPromotion.resources
+D:\Work\EAB Business Solution\EAB Business Solution\obj\Debug\EAB_Business_Solution.Forms.frmSalesOrder.resources
+D:\Work\EAB Business Solution\EAB Business Solution\obj\Debug\EAB_Business_Solution.Forms.frmSalesPlan.resources
+D:\Work\EAB Business Solution\EAB Business Solution\obj\Debug\EAB_Business_Solution.Forms.frmServiceCharges.resources
+D:\Work\EAB Business Solution\EAB Business Solution\obj\Debug\EAB_Business_Solution.Forms.frmStockRequest.resources
+D:\Work\EAB Business Solution\EAB Business Solution\obj\Debug\EAB_Business_Solution.Forms.frmsupplier.resources
+D:\Work\EAB Business Solution\EAB Business Solution\obj\Debug\EAB_Business_Solution.Forms.FrmTable.resources
+D:\Work\EAB Business Solution\EAB Business Solution\obj\Debug\EAB_Business_Solution.Forms.frmTax.resources
+D:\Work\EAB Business Solution\EAB Business Solution\obj\Debug\EAB_Business_Solution.Forms.frmUL_User.resources
+D:\Work\EAB Business Solution\EAB Business Solution\obj\Debug\EAB_Business_Solution.Forms.frmUOM.resources
+D:\Work\EAB Business Solution\EAB Business Solution\obj\Debug\EAB_Business_Solution.Forms.frmUserEmployee.resources
+D:\Work\EAB Business Solution\EAB Business Solution\obj\Debug\EAB_Business_Solution.Forms.frmUserLevel.resources
+D:\Work\EAB Business Solution\EAB Business Solution\obj\Debug\EAB_Business_Solution.Forms.frmUserLicense.resources
+D:\Work\EAB Business Solution\EAB Business Solution\obj\Debug\EAB_Business_Solution.Forms.frmWarehouse.resources
+D:\Work\EAB Business Solution\EAB Business Solution\obj\Debug\EAB_Business_Solution.Forms.frmWH_Employee.resources
+D:\Work\EAB Business Solution\EAB Business Solution\obj\Debug\EAB_Business_Solution.Properties.Resources.resources
+D:\Work\EAB Business Solution\EAB Business Solution\obj\Debug\EAB_Business_Solution.Report_Forms.frmProductSalesQuantityReport.resources
+D:\Work\EAB Business Solution\EAB Business Solution\obj\Debug\EAB_Business_Solution.Report_Forms.frmSalesReport.resources
+D:\Work\EAB Business Solution\EAB Business Solution\obj\Debug\EAB_Business_Solution.Report_Forms.frmStockReport.resources
+D:\Work\EAB Business Solution\EAB Business Solution\obj\Debug\EAB Business Solution.csproj.GenerateResource.Cache
+D:\Work\EAB Business Solution\EAB Business Solution\obj\Debug\EAB Business Solution.csproj.CoreCompileInputs.cache
+D:\Work\EAB Business Solution\EAB Business Solution\obj\Debug\EAB Business Solution.exe
+D:\Work\EAB Business Solution\EAB Business Solution\obj\Debug\EAB Business Solution.pdb
+D:\Work\EAB Business Solution\EAB Business Solution\bin\Debug\EAB Business Solution.exe.config
+D:\Work\EAB Business Solution\EAB Business Solution\bin\Debug\EAB Business Solution.exe
+D:\Work\EAB Business Solution\EAB Business Solution\bin\Debug\EAB Business Solution.pdb
+D:\Work\EAB Business Solution\EAB Business Solution\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+D:\Work\EAB Business Solution\EAB Business Solution\bin\Debug\Microsoft.ReportViewer.Common.dll
+D:\Work\EAB Business Solution\EAB Business Solution\bin\Debug\Microsoft.ReportViewer.WinForms.xml
